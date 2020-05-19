@@ -22,7 +22,7 @@ function Footer() {
             author: <A href="https://twitter.com/mxstbr">Max Stoiber</A>,
           }}
         />
-        <A onClick={() => {}}>Max Stoiber</A>
+        <a onClick={() => {}}>dude</a>
       </section>
     </Wrapper>
   );
